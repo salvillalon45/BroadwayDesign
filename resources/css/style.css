@@ -1,0 +1,81 @@
+* {
+  font-family: Helvetica;
+}
+
+/* Navigation Picture */
+.top_nav_pic {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+
+
+/* Navigation Links */
+.nav {
+  font-size:18px;
+  color:white;
+}
+
+/* Icons in Identify, Understand, and Execute */
+.icon {
+  text-align: center;
+}
+
+/* Broadyway Design Heading */
+h1 {
+  font-size: 70px;
+  font-weight: 70px;
+  color:white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+/* Our Process Heading */
+.process {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Heading Identify, Understand, and Execute */
+.sub_sect {
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Text under Identify, Understand, and Execute */
+.text_sect {
+  font-size: 14px;
+  text-align: center;
+}
+
+/* Designed in New York Sub Heading */
+.newyork_heading {
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+
+}
+/*
+.navigation_footer a {
+  font-size:18px;
+  color:white;
+  text-align:left
+  display:inline;
+}
+*/
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color:dimgray;
+}
+
+li {
+  display:inline;
+}
